@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Open Weather App</string>
+
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_action_cancel">Отмена</string>
+    <string name="dialog_error_title">Ошибка</string>
+
+    <string name="error_loading_ribots">Возникла ошибка</string>
+
+    <string name="auth_title">Авторизация</string>
+    <string name="email_hint">Электронная почта</string>
+    <string name="password_hint">Пароль</string>
+    <string name="enter_button_text">Войти</string>
+    <string name="forgot_password">Забыли пароль?</string>
+    <string name="wrong_email">Неверный адрес</string>
+    <string name="wrong_password">Неверный пароль</string>
+
+    <string name="menu_create_account">Создать</string>
+
+    <string name="permission_description">Необходим доступ к местоположению</string>
+
+</resources>

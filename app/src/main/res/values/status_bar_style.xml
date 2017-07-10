@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light status bar is not supported before API level 23. Using dark color for status bar. -->
+    <style name="LightStatusBar" parent="AppTheme">
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+    </style>
+</resources>
